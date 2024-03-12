@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition-
-Handwritten Digit Recognition Using Python
+The overall aim is to create a reliable and effective Handwritten Digit Recognition system that can be applied in various contexts, such as optical character recognition, digitizing documents, or enhancing human-computer interactions.
 # Dataset : https://www.kaggle.com/competitions/digit-recognizer
 Building Python Deep Learning Project on Handwritten Digit Recognition
 Below are the steps to implement the handwritten digit recognition project:
